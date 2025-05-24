@@ -64,6 +64,11 @@ Designed for minimalists, tinkerers, and terminal lovers, it integrates real-tim
     ```
     set -g mouse on
     ```
+
+6. Reload .bashrc
+    ```
+    source ~/.bashrc
+    ```
    
 ## ▶️ Usage
 just type 'retroinfo' in your terminal.
